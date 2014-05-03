@@ -1,7 +1,7 @@
 {
   "name": "wgs84",
   "repo": "pirxpilot/wgs84",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "constants from the standard reference ellipsoid",
   "scripts": [
     "index.js"
